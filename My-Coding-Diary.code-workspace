@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "My-Coding-Diary",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../all-about-me/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My-Coding-Diary"
+	}
+}
